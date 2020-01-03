@@ -1,3 +1,3 @@
 # MLS
-1) Exploratory data analysis of MLS team salaries. 
+1) MLS team salary analysis.
 2) SeatGeek ticket pricing analysis.
